@@ -1,0 +1,20 @@
+body{
+    background-image: url(img/bg.jpg);
+ background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.arajin{
+    background-color: aliceblue;
+    border-style: double;
+}
+.video{
+    position: relative;
+    left: 400px;
+    width: 600px;
+    height: 350px;
+}
+
+.aye{
+    background-color: aliceblue;
+}
